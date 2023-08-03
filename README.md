@@ -20,7 +20,7 @@ Facebook is a fully responsive landing page website, responsive for all devices,
 
 ### Demo Screenshots
 
-<!-- ![Landing Page Desktop Demo](./assets/demo/desktop.png "Desktop Demo") -->
+![Landing Page Demo Screen](./assets/demo/demofb.png "Demo Screen") 
 
 ### Prerequisites
 
