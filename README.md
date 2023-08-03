@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<!-- <img src="./assets/images/logo.png"> -->
+ <img src="./assets/images/logo.png"> 
 
 <h2 align="center">Facebook - Landing Page</h2>
 Facebook is a fully responsive landing page website, responsive for all devices, built using HTML, CSS, and JavaScript.
@@ -20,7 +20,7 @@ Facebook is a fully responsive landing page website, responsive for all devices,
 
 ### Demo Screenshots
 
-![Landing Page Desktop Demo](./assets/demo/desktop.png "Desktop Demo")
+<!-- ![Landing Page Desktop Demo](./assets/demo/desktop.png "Desktop Demo") -->
 
 ### Prerequisites
 
