@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Pepsi Landing Page**, run this command on your git bash:
+To run **Facebook Landing Page**, run this command on your git bash:
 
 Linux and macOS:
 
